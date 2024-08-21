@@ -9,7 +9,9 @@ Software engineering is the practice of developing and maintaining software.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. The Emergence of Structured Programming-which improved code readability, maintainability, and reliability. It laid the groundwork for modern software development practices and set the stage for the development of software engineering as a distinct discipline
+   
 2. The Introduction of Software Engineering Methodologies - The 1980s saw the development and adoption of formal methodologies and frameworks for software engineering. This period introduced several important methodologies, including the Waterfall Model and later the Spiral Model. These methodologies provided structured approaches to managing software development projects, including phases such as requirements analysis, design, implementation, and testing.
+   
 3. The Rise of Agile and DevOps Practices - Agile methodologies, including Scrum and Extreme Programming (XP), emerged as a response to the limitations of traditional approaches. Agile emphasized iterative development, collaboration, and responsiveness to change. Concurrently, the DevOps movement focused on integrating development and operations to enhance collaboration, automation, and continuous delivery.
 
 List and briefly explain the phases of the Software Development Life Cycle.
